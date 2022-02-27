@@ -1,0 +1,32 @@
+
+body{
+    font-weight: bold;
+    background-image: url('/assets/diary.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+}
+span{
+    color: white;
+}
+.center-div{
+    padding-top:10%;
+}
+
+.btn.btn-success{
+    padding:.4em 2em;
+}
+
+form{
+    padding:3em 3em;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
